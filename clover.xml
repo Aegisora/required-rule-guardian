@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1787930829">
-  <project timestamp="1787930829">
+<coverage generated="1787931262">
+  <project timestamp="1787931262">
     <file name="/home/runner/work/required-rule-guardian/required-rule-guardian/src/RequiredRuleGuardian.php">
       <class name="Aegisora\RuleGuardians\RequiredRule\RequiredRuleGuardian" namespace="global">
-        <metrics complexity="2" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="4" coveredelements="0"/>
+        <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
       </class>
-      <line num="15" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
-      <line num="18" type="stmt" count="0"/>
-      <line num="27" type="method" name="check" visibility="public" complexity="1" crap="2" count="0"/>
-      <line num="31" type="stmt" count="0"/>
-      <metrics loc="34" ncloc="28" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="4" coveredelements="0"/>
+      <line num="15" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="19"/>
+      <line num="18" type="stmt" count="19"/>
+      <line num="27" type="method" name="check" visibility="public" complexity="1" crap="1" count="19"/>
+      <line num="31" type="stmt" count="19"/>
+      <metrics loc="34" ncloc="28" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
     </file>
-    <metrics files="1" loc="34" ncloc="28" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="4" coveredelements="0"/>
+    <metrics files="1" loc="34" ncloc="28" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
   </project>
 </coverage>
