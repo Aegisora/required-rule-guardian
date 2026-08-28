@@ -1,8 +1,20 @@
 {
     "name": "aegisora/required-rule-guardian",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Required Rule Guardian provides a simple shortcut for ensuring a value is present (not null)",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "validation",
+        "guardian",
+        "required",
+        "required-validation",
+        "required-rule",
+        "not-null",
+        "rule",
+        "rule-guardian"
+    ],
     "homepage": "https://github.com/Aegisora/required-rule-guardian",
     "support": {
         "issues": "https://github.com/Aegisora/required-rule-guardian/issues",
